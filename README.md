@@ -1,7 +1,7 @@
 ### Hello!
 I am a potato who does random things on GitHub to try and improve my own skills one at a time, and I mainly contribute and suggest ideas to other projects if I feel like it.
 
-- 🔭 I am a official moderator for the [Fabulously Optimized](https://fabulously-optimized.github.io/discord) modpack,
+- 🔭 I am a triage for the [Fabulously Optimized](https://fabulously-optimized.github.io/discord) modpack,
 - 🍎 I daily-drive macOS on my computer because I am satisified with it and don't need a ridiculous windows desktop experience,
 - 📝 Sometimes I like to write articles based on my opinions on topics from time-to-time whenever i feel like it.
 
