@@ -9,7 +9,7 @@ I am a potato who does random things on GitHub to try and improve my own skills 
 
 <details><summary>Technical Specifications</summary>
 
-[![OS - macOS 12.7.3](https://img.shields.io/badge/macOS-12.7.3-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://en.wikipedia.org/wiki/macOS) [![CPU - Intel Core i7-870](https://img.shields.io/badge/Intel_Core_i7-870-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/41315/intel-core-i7870-processor-8m-cache-2-93-ghz/specifications.html)  [![GPU - ATI Radeon HD 5750](https://img.shields.io/badge/ATI_Radeon_HD-5750-ED1C24?style=flat&logo=amd&logoColor=red)](https://www.techpowerup.com/gpu-specs/radeon-hd-5750.c249)
+[![OS - macOS 14.4.1](https://img.shields.io/badge/macOS-14.4.1-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://en.wikipedia.org/wiki/macOS) [![CPU - Intel Core i7-8700](https://img.shields.io/badge/Intel_Core_i7-8700-0071c5?style=flat&logo=intel&logoColor=blue)](https://www.intel.com/content/www/us/en/products/sku/126686/intel-core-i78700-processor-12m-cache-up-to-4-60-ghz/specifications.html)  [![GPU - AMD Radeon Pro 560X](https://img.shields.io/badge/Radeon-Pro_560X-ED1C24?style=plastic&logo=amd&logoColor=white)](https://www.techpowerup.com/gpu-specs/radeon-pro-560x.c3282)
 
-[![iMac (27-inch, Mid 2010)](https://img.shields.io/badge/iMac-(27_Inch,_Mid_2010)-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/kb/sp695?locale=en_US)
+[![iMac (21.5-inch, 2019)](https://img.shields.io/badge/iMac-(21.5_Inch,_2019)-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/en-gb/111963)
 [![Mobile - iPhone 12](https://img.shields.io/badge/iPhone-12-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/kb/SP830?locale=en_GB)
